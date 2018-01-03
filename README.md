@@ -1,5 +1,4 @@
-# Monitoreo_de_vegetacion_RNRC
-Código R para el análisis multitemporal y el monitoreo de vegetación del ecosistema Estepa en la Reserva Nacional Río de Los Cipreses
+# Monitoreo de vegetacion del Ecosistema Estepa de altura en la Reserva Nacional Río de los Cipreses (RNRC)
 
 Bajo el contexto de actualización del plan de manejo de la Reserva Nacional Río de Los Cipreses (RNRC), se desarrolló una herramienta de monitoreo que permitirá evidenciar los cambios en superficie de la vegetación asociada al objeto de conservación de filtro grueso “Estepa de altura” mediante imágenes satelitales. Este ecosistema agrupa pisos vegetacionales de altitud (2.000-3.500 m s.n.m.) como; herbazal andino, matorral bajo, y comunidades intrazonales, como vegas y matorrales de quebrada (Lüebert y Pliscoff, 2006). Este tipo de vegetación, en muchos casos no es evidente en una imagen satelital, debido a su alta variabilidad estacional, su baja cobertura o por sus tonalidades pardas a blancas que se confunden con el suelo.
 
