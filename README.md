@@ -6,3 +6,6 @@ Bajo el contexto de actualización del plan de manejo de la Reserva Nacional Rí
 La herramienta de monitoreo desarrollada bajo el entorno de programación R (R Core Team, 2017), permite identificar la vegetación de estepa mediante el Índice de Vegetación de Diferencia Normalizada (NDVI). El NDVI es un índice de vegetación basado en la intensidad de la radiación de ciertas bandas del espectro electromagnético que la vegetación refleja. La combinación de estos dominios espectrales permite diferenciar coberturas de vegetación (Bannari et al. 1995).
 
 Con el fin de conocer la superficie de la vegetación de estepa y su variabilidad anual se aplicó este índice a un set de imágenes satelitales en una ventana temporal de cuatro años (2014-2017), se utilizaron imágenes del periodo estival (enero-marzo) con el fin de disminuir las diferencias fenológicas de la vegetación. Para este análisis se utilizó el producto LANDSAT 8 OLI/TIRS C1 Higher-Level, el cual incorpora las correcciones necesarias para disminuir la variabilidad inter-imagen producto de efectos atmosféricos.
+
+
+![alt text](https://github.com/GapConaf/Monitoreo_cuerpos_de_agua/blob/master/Imagen1.png "Laguna Matanzas R.N. El Yali")
